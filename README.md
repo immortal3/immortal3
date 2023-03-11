@@ -4,7 +4,7 @@
 
 
 - 🤖 Working on Machine Learning  $∩$ Distributed Systems $∩$ Optimizations
-- 💚 Open for new opportunities
+- 💚 Open for new opportunities 🏹 [LinkedIn](https://www.linkedin.com/in/dip-p-patel/)
 - 🔭 Currently Learning Rust and Optimizing Large Language Models 
 
 
@@ -17,6 +17,6 @@ Latest Posts
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=immortal3&count_private=true&show_icons=true&theme=radical&hide=issues) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=immortal3&hide=javascript,html,jupyter%20notebook&count_private=true&show_icons=true&theme=radical&layout=compact&hide_progress=true))](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=immortal3&count_private=true&show_icons=true&theme=radical&hide=issues)
 
 
