@@ -1,4 +1,4 @@
-### Hi there 👋🏽, I am Dipkumar
+## Hi there 👋🏽, I am Dipkumar
 
 *you can also call me just `Dip`*
 
@@ -9,7 +9,7 @@
 🤍 [LinkedIn](https://www.linkedin.com/in/dip-p-patel/) | [Twitter](https://twitter.com/immortal_333)  
 
 
-#### 📰 [Blog](https://immortal3.github.io/) 
+### 📰 [Blog](https://immortal3.github.io/) 
 
 ✍ [Speeding up the GPT - KV cache](https://immortal3.github.io/becoming-the-unbeatable/posts/gpt-kvcache/)  
 ✍ [Implementing a Simple Redirection Analytics with a touch of Data Science](https://hackeregg.github.io/2020/06/03/Implementing-a-Simple-Redirection-Analytics.html  
