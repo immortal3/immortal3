@@ -3,10 +3,13 @@
 *you can also call me just `Dip`*
 
 
-- 🤖 Working on Machine Learning  $∩$ Distributed Systems $∩$ Optimizations
-- 💚 Open for new opportunities
-- 🔭 Currently Learning Rust and Optimizing Large Language Models
-- 🤍 [LinkedIn](https://www.linkedin.com/in/dip-p-patel/) | [Twitter](https://twitter.com/immortal_333)
+🤖 Working on Machine Learning  $∩$ Distributed Systems $∩$ Optimizations
+
+💚 Open for new opportunities
+
+🔭 Currently Learning Rust and Optimizing Large Language Models
+
+🤍 [LinkedIn](https://www.linkedin.com/in/dip-p-patel/) | [Twitter](https://twitter.com/immortal_333)
 
 📰 [Blog](https://immortal3.github.io/) 
 
