@@ -1,18 +1,24 @@
-### Hi there 👋
+### Hi there 👋🏽, I am Dipkumar
 
-<!--
-**immortal3/immortal3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*you can also call me just `Dip`*
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 Working on Machine Learning  $∩$ Distributed Systems $∩$ Optimizations
+💚 Open for new opportunities
+🔭 Currently Learning Rust and Optimizing Large Language Models 
 
-![Immortal's GitHub stats](https://github-readme-stats.vercel.app/api?username=immortal3&count_private=true&show_icons=true&theme=radical)
+
+📰 [Blog](https://immortal3.github.io/) 
+
+Latest Posts
+✍ [Speeding up the GPT - KV cache](https://immortal3.github.io/becoming-the-unbeatable/posts/gpt-kvcache/)
+✍ [Implementing a Simple Redirection Analytics with a touch of Data Science](https://hackeregg.github.io/2020/06/03/Implementing-a-Simple-Redirection-Analytics.html)
+✍ [Speeding up function calls with just one line in Python](https://hackeregg.github.io/2020/06/03/Speeding-up-function-calls-with-just-one-line-in-Python.html)
+
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=immortal3&count_private=true&show_icons=true&theme=radical&hide=issues)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=immortal3&hide=javascript,html,jupyter%20notebook&count_private=true&show_icons=true&theme=radical&layout=compact&hide_progress=true))](https://github.com/anuraghazra/github-readme-stats)
+
+
