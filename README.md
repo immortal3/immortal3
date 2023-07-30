@@ -16,6 +16,5 @@
 ✍ [Speeding up function calls with just one line in Python](https://hackeregg.github.io/2020/06/03/Speeding-up-function-calls-with-just-one-line-in-Python.html)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=immortal3&count_private=true&show_icons=true&theme=radical&hide=issues)
 
 
