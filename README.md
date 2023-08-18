@@ -1,4 +1,4 @@
-# Hi there 👋🏽, I am Dipkumar
+# नमस्ते, I am Dipkumar
 
 *you can also call me just `Dip`*
 
